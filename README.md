@@ -1,4 +1,4 @@
-# The-Queens-and-Dragons-problem
+# The N-Queens problem
 Solves the N-Queens Problem.
 
 Background:
